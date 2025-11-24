@@ -1,1 +1,1 @@
-{version = "1.0.0", new = {"test", "test2"]}
+{version = "1.0.0", new_features = {"test", "feature2"}}
