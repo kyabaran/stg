@@ -1,1 +1,9 @@
-{"version": "1.0.0", "new_features": ["getMessage error has been fixed."]}
+{
+  "version": "1.0.1",
+  "new_features": [
+    "Added responsive support for 1920x1080 and ultra-wide monitors.",
+    "Added STG.UseCustomHelpNotify option to the config (allows disabling the built-in help menu for developers who don’t use ox_lib).",
+    "Removed unnecessary prints.",
+    "Fixed the stg_likedsongs issue on QBCore."
+  ]
+}
