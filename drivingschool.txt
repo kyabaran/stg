@@ -1,1 +1,10 @@
-{"version": "1.0.0", "new_features": ["getMessage error has been fixed."]}
+{
+  "version": "1.0.1",
+  "new_features": [
+    "Responsive support added for wide monitors.",
+    "Config.SpeedType added (KMH / MPH switch support).",
+    "Fixed maxDistanceFromCheckpoint issue.",
+    "After passing or failing the exam, players now return to the NPC instead of the first checkpoint.",
+    "Config.Exam.penaltyCooldown option added."
+  ]
+}
