@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
-  "new_features": [
-    "Responsive support added for wide monitors.",
-    "Config.SpeedType added (KMH / MPH switch support).",
-    "Fixed maxDistanceFromCheckpoint issue.",
-    "After passing or failing the exam, players now return to the NPC instead of the first checkpoint.",
-    "Config.Exam.penaltyCooldown option added."
+  "version": "1.0.2",
+  "changes": [
+    "Fixed an issue where the practical exam would automatically fail mid-test due to the maxDistanceFromCheckpoint detection.",
+    "Increased the default speed limit from 40 to 70 (configurable in config).",
+    "Fixed delayed pedestrian crossing warning issue.",
+    "Disabled vehicle control during road check, pedestrian, and dog animations.",
+    "Added a specific notification when failing the exam for being too far from a checkpoint."
   ]
 }
