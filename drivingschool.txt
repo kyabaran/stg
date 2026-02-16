@@ -1,6 +1,6 @@
 {
   "version": "1.0.2",
-  "changes": [
+  "new_features": [
     "Fixed an issue where the practical exam would automatically fail mid-test due to the maxDistanceFromCheckpoint detection.",
     "Increased the default speed limit from 40 to 70 (configurable in config).",
     "Fixed delayed pedestrian crossing warning issue.",
