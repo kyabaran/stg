@@ -1,1 +1,7 @@
-{"version": "1.0.0", "new_features": ["getMessage error has been fixed."]}
+{
+  "version": "1.0.1",
+  "new_features": [
+    "Added key give and key remove function for test drive.",
+    "Fixed an issue where vehicles sometimes spawned floating above the ground on first server join."
+  ]
+}
