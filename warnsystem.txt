@@ -1,0 +1,1 @@
+{"version": "1.0.0", "new_features": ["getMessage error has been fixed."]}
