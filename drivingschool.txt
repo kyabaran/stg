@@ -1,10 +1,11 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "new_features": [
-    "Fixed an issue where the practical exam would automatically fail mid-test due to the maxDistanceFromCheckpoint detection.",
-    "Increased the default speed limit from 40 to 70 (configurable in config).",
-    "Fixed delayed pedestrian crossing warning issue.",
-    "Disabled vehicle control during road check, pedestrian, and dog animations.",
-    "Added a specific notification when failing the exam for being too far from a checkpoint."
+    "Localized several parts on the question page that were not previously localized.",
+    "Fixed a localization issue in Reach Checkpoint.",
+    "Added cs_license support.",
+    "Added onTheoryPassedServer and onPracticalPassedServer functions, allowing server-side actions when the theory or practical exam is passed (client functions were already available).",
+    "Expanded the variety of scripts supported in the key function.",
+    "Added the removeKey function."
   ]
 }
