@@ -1,1 +1,8 @@
-{"version": "1.0.0", "new_features": ["test", "feature2"]}
+{
+  "version": "1.0.1",
+  "new_features": [
+    "Made responsive improvements.",
+    "Fixed an issue that allowed placing the prop on the ground multiple times.",
+    "Added Finnish language support."
+  ]
+}
