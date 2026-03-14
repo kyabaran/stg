@@ -1,9 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "new_features": [
-    "Added responsive support for 1920x1080 and ultra-wide monitors.",
-    "Added STG.UseCustomHelpNotify option to the config (allows disabling the built-in help menu for developers who don’t use ox_lib).",
-    "Removed unnecessary prints.",
-    "Fixed the stg_likedsongs issue on QBCore."
+    "Added STG.SoundDistance, so you can now adjust how far the boombox sound can be heard.",
+    "Added Norwegian language support in addition to the existing languages."
   ]
 }
