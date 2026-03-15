@@ -1,8 +1,10 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "new_features": [
-    "Made responsive improvements.",
-    "Fixed an issue that allowed placing the prop on the ground multiple times.",
-    "Added Finnish language support."
+    "The game logic has been reworked.",
+    "Cards are no longer added completely at random when drawing a new card. Each card now has a specific limit, so the game does not get unnecessarily long.",
+    "When you draw a new card, if it is playable, you can use it, or you can choose to pass. If it is not playable, the turn moves to the next player.",
+    "In addition to the existing languages, Norwegian language support has also been added.",
+    "You can now cancel with Backspace before placing the prop."
   ]
 }
