@@ -1,1 +1,7 @@
-{"version": "1.0.0", "new_features": ["getMessage error has been fixed."]}
+{
+  "version": "1.0.1",
+  "new_features": [
+    "Fixed the item usage issue.",
+    "Documentation has been updated."
+  ]
+}
