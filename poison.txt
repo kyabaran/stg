@@ -1,7 +1,9 @@
 {
   "version": "1.0.1",
   "new_features": [
-    "Fixed the item usage issue.",
-    "Documentation has been updated."
+    "Fixed the issue where the item was not working.",
+    "Significant resmon optimizations have been made.",
+    "Added `Config.AntidoteDuration`, so you can now define how long the antidote effect/process lasts.",
+    "Added `Config.RemoveAfterUse`, so the item can now be removed after use."
   ]
 }
