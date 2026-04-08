@@ -1,9 +1,8 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "new_features": [
-    "Fixed an issue where some key systems were not functioning properly.",
-    "Added jg-vehiclemileage integration for the mileage counter (free script). You can customize it via Config.Functions.getMileage.",
-    "Added Config.Unit — you can now choose between kilometers and miles.",
-    "Removed unnecessary prints from the server console."
+    "Fixed an issue where some servers displayed vehicle hash names instead of the actual vehicle names.",
+    "Added a new Change Vehicle button next to vehicles when all parking spots are occupied, allowing players to swap that vehicle with another listed vehicle that currently has no available parking spot. (Optional)",
+    "Added Norwegian language support in addition to the existing 14 languages."
   ]
 }
