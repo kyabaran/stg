@@ -1,11 +1,8 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "new_features": [
-    "Localized several parts on the question page that were not previously localized.",
-    "Fixed a localization issue in Reach Checkpoint.",
-    "Added cs_license support.",
-    "Added onTheoryPassedServer and onPracticalPassedServer functions, allowing server-side actions when the theory or practical exam is passed (client functions were already available).",
-    "Expanded the variety of scripts supported in the key function.",
-    "Added the removeKey function."
+    "Help notifications will no longer appear while a target is available.",
+    "speedChange in the animations table has now been converted into a table format, allowing you to define any speed limit you want for any checkpoint.",
+    "Norwegian language support has been added alongside the other available languages."
   ]
 }
