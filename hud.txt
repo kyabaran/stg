@@ -1,1 +1,7 @@
-{"version": "1.0.0", "new_features": ["getMessage error has been fixed."]}
+{
+  "version": "1.0.1",
+  "new_features": [
+    "The maximum player count now comes from `Config.MaxPlayers`.",
+    "Fixed an issue where the job was not updating in real time."
+  ]
+}
