@@ -1,1 +1,12 @@
-{"version": "1.0.0", "new_features": ["getMessage error has been fixed."]}
+{
+  "version": "1.1.0",
+  "new_features": [
+    "Added target support. It can now be customized via Config.Target and client/editable/target.lua.",
+    "Added new language support: Spanish (es), Portuguese (pt), Italian (it), Dutch (nl), Polish (pl), Swedish (sv), Arabic (ar), Japanese (jp), Chinese (zh), Hebrew (he), Finnish (fi), and Norwegian (no), in addition to English (en), German (de), and French (fr).",
+    "Vehicle images are now loaded from local files, fixing the issue where some users experienced missing vehicle images.",
+    "Fixed an issue where purchasing multiple fuel types would only add diesel fuel.",
+    "Resolved errors in the fuel purchasing mission.",
+    "Fixed issues related to the fuel purchase NPC attendant.",
+    "Fixed the progress bar display issue for electric fuel amounts in the Types section of the management page."
+  ]
+}
