@@ -1,7 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "new_features": [
-    "The maximum player count now comes from `Config.MaxPlayers`.",
-    "Fixed an issue where the job was not updating in real time."
+    "Added stress and stamina bars."
   ]
 }
